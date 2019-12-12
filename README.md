@@ -1,6 +1,6 @@
 # perfectprimethermo
 
-Perfect Prime ThermoCouple binary serial data.
+Perfect Prime ThermoCouple binary serial data. x64 build only
 
 https://www.amazon.com/gp/product/B0776SD6JC
 
